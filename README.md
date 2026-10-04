@@ -1,4 +1,4 @@
-# Olá, eu sou Martha Liliana Huertas Madrid 👋
+# Martha Liliana Huertas Madrid 👋
 
 ### Estatística | Regressão Logística | Ciência de Dados | Machine Learning
 
