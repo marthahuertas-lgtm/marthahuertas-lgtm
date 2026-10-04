@@ -19,9 +19,9 @@ Durante minha formação e pesquisa, trabalhei com **modelos de regressão
 logística**, análise estatística e métodos de classificação, além de modelos
 de aprendizado de máquina aplicados a diferentes tipos de dados.
 
-Também desenvolvo trabalhos relacionados à **classificação de imagens SAR/PolSAR**,
-incorporando métodos fuzzy e medidas de distância para lidar com incerteza
-e ruído nos dados.
+Também desenvolvo trabalhos relacionados à aplicação de modelos de
+Machine Learning supervisionados, explorando diferentes abordagens
+de classificação, modelagem e avaliação de modelos.
 
 ---
 
@@ -75,7 +75,7 @@ e interpretabilidade.
 ### 🛰️ Classificação SAR / PolSAR
 
 Pesquisa relacionada à classificação de imagens SAR/PolSAR com presença de
-ruído speckle, utilizando métodos estatísticos, fuzzy e medidas de distância.
+ruído speckle, utilizando métodos estatísticos.
 
 ### 📈 Ciência de Dados
 
@@ -98,7 +98,6 @@ Universidad de Córdoba — Colombia
 
 🇪🇸 Español  
 🇧🇷 Português  
-🇺🇸 English
 
 ---
 
