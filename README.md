@@ -34,7 +34,6 @@ de classificação, modelagem e avaliação de modelos.
 - 🧠 Classificação e Modelos Preditivos
 - 📉 Análise e Visualização de Dados
 - 🛰️ SAR / PolSAR
-- 🌫️ Métodos Fuzzy e Incerteza
 - 🔬 Pesquisa Estatística Aplicada
 
 ---
