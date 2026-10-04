@@ -1,6 +1,6 @@
 # Olá, eu sou Martha Liliana Huertas Madrid 👋
 
-### Estatística | Estatística Aplicada | Ciência de Dados | Machine Learning
+### Estatística | Regressão Logística | Ciência de Dados | Machine Learning
 
 🎓 Graduada em Estatística pela Universidad de Córdoba – Colômbia  
 🎓 Mestranda em Estatística — Universidade Federal de Pernambuco (UFPE)  
